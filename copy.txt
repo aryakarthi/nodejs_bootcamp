@@ -1,0 +1,3 @@
+A stream is a sequence of data that is being moved from one point to another over time.
+Work with data in chunks instead of waiting for the entire data to be available at once.
+Stream is a built-in node module that inherits from the event emitter class.

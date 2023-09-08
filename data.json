@@ -1,0 +1,8 @@
+{
+  "name": "Arya",
+  "mobile": "9876543210",
+  "address": {
+    "street": "2nd Street",
+    "city": "Chennai"
+  }
+}
